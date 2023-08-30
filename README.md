@@ -1,4 +1,4 @@
-# learningdart
+# Learning Dart
 
 A new Flutter project.
 
